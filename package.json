@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.5",
+    "fastify": "^4.25.2",
+    "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.3.3",
+    "vite-plugin-checker": "^0.6.2",
+    "vite-plugin-node": "^3.1.0"
+  }
+}
